@@ -4,7 +4,7 @@
 ![Database](https://img.shields.io/badge/Database-Relational_DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-A structured collection of SQL scripts, homework assignments, schema definitions, and practice queries covering relational database design, data manipulation (DML), data definition (DDL), complex joins, subqueries, aggregations, and data analysis tasks[cite: 6].
+A structured collection of SQL scripts, homework assignments, schema definitions, and practice queries covering relational database design, data manipulation (DML), data definition (DDL), complex joins, subqueries, aggregations, and data analysis tasks
 
 ---
 
